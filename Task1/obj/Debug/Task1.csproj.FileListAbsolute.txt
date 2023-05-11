@@ -1,0 +1,7 @@
+E:\PF\PFlab4\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+E:\PF\PFlab4\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\PF\PFlab4\Task1\bin\Debug\Task1.exe.config
+E:\PF\PFlab4\Task1\bin\Debug\Task1.exe
+E:\PF\PFlab4\Task1\bin\Debug\Task1.pdb
+E:\PF\PFlab4\Task1\obj\Debug\Task1.exe
+E:\PF\PFlab4\Task1\obj\Debug\Task1.pdb
